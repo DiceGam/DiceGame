@@ -1,0 +1,13 @@
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.AssemblyInfoInputs.cache
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.AssemblyInfo.cs
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.exe
+C:\Users\Craig\source\repos\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.deps.json
+C:\Users\Craig\source\repos\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.runtimeconfig.json
+C:\Users\Craig\source\repos\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.runtimeconfig.dev.json
+C:\Users\Craig\source\repos\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.dll
+C:\Users\Craig\source\repos\Dice\Dice\bin\Debug\netcoreapp3.1\Dice.pdb
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.dll
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.pdb
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.genruntimeconfig.cache
+C:\Users\Craig\source\repos\Dice\Dice\obj\Debug\netcoreapp3.1\Dice.csprojAssemblyReference.cache
